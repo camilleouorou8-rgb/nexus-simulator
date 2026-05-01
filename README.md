@@ -9,7 +9,7 @@ Sous Windows, PyInstaller va créer un fichier exécutable autonome.
 
 Ouvre un Terminal (PowerShell ou CMD) dans le dossier de ton script.
 
-Lance la commande suivante :pyinstaller --noconsole --onefile --name "NexusSimulator" nexus.py
+Lance la commande suivante :pyinstaller --noconsole --onefile --name "NexusSimulator" horizon_noir.py
 
 Explication des options :
 
